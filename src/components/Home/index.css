@@ -1,0 +1,19 @@
+.home-container {
+  background-color: #183b56;
+  min-height: 100vh;
+}
+
+.card-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-title {
+  color: #fff;
+}
+
+.digi-card {
+  width: 500px;
+}
